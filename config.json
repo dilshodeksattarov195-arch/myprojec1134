@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvncrypt",
+        "uuid": 7451514,
+        "checksum": "rj8kah"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
